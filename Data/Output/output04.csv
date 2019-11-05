@@ -1,0 +1,7 @@
+MANDT,SPARTE,SHORT_TEXT,BEZEICHNUNG
+100,1,E,Strom
+100,2,G,Gas
+100,3,W,Wasser
+100,4,A,Abwasser
+100,5,F,Wärme
+100,6,D,Dienstleistung
